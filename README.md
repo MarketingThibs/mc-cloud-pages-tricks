@@ -30,7 +30,7 @@ Dropbox
 
 ### GOING FURTHER
 
-To debug you page quicker, you can catch the erros with SSJS 
+To debug you page quicker, you can catch the errors with SSJS 
 
 **Catching SSJS errors :**
 
